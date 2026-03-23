@@ -1,17 +1,17 @@
-public class Hello {
+public class until0304 {
 
     public static void main(String[] args) {
 
         System.out.println("Hello, java!");
-        System.out.println("資管4"+"ˋ411631327");
-        System.out.println("0225 \n 0257");
+        System.out.println("資管4"+"411631327");
+        System.out.println("0225\n 0257");
        
         
 
 
     }
 
-    // ===== 題目1 =====
+    //  練習1 
     public static void exercise1() {
 
         int[] a1 = {1,2,3,4,5};
@@ -22,7 +22,7 @@ public class Hello {
 
     }
 
-    // ===== 題目2 =====
+    //  練習2 
     public static void exercise2() {
 
         int[] a1 = {1,2,3,4,5};
@@ -38,7 +38,7 @@ public class Hello {
 
     }
 
-    // ===== 題目3 =====
+    //  練習3 
     public static void exercise3() {
 
         int[] a1 = {1,2,3,4,5};

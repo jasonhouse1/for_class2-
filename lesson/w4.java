@@ -1,3 +1,5 @@
+// 上課內容
+
 class Character {
     int atk;
     int hp;
